@@ -6,7 +6,7 @@ Group: u4125
 Author: Tkachenko Elizaveta Andreevna
 Lab: Lab1
 Date of create: 13.04.2026
-Date of finished:
+Date of finished: 13.04.2026
 # Лабораторная работа №3: Запуск бота для реального использования
 ## Описание деплоя
 
@@ -19,7 +19,7 @@ Date of finished:
 - Быстрый старт без регистрации на новых платформах
 - Мой компьютер может быть включен на время тестирования
 
-**Видео работы бота:** https://drive.google.com/file/d/1wXWKeJFG0MEzmmOPoCGtb5wBH9_t0ike/view?usp=drive_link
+**Видео работы бота:** https://drive.google.com/file/d/1L8ywLmdkRZkkYOCbYCXBg3J3mLRhzimI/view?usp=sharing
 
 **Результат:**
 - Бот отвечает корректно
